@@ -1,0 +1,13 @@
+body{
+text-align: center;  
+}
+h1{
+    background-color: aqua;
+    font-style: oblique;
+    font-family:'Dancing Script', cursive;
+}
+img{
+    width:380px;
+    height:380px;
+    border-radius:200px; 
+}
