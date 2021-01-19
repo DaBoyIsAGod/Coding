@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+    margin-right: 25px;
+    margin-left: 25px;
+    resize: 20px;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: ghostwhite;
+}
+
+#img1 {
+    width: 300px;
+    height: 200px;
+}
+
+#img2 {
+    width: 300px;
+    height: 200px;
+}
+
+#img3 {
+    width: 300px;
+    height: 200px;
+}
+
+#img4 {
+    width: 300px;
+    height: 200px;
+}
